@@ -2,6 +2,7 @@
   "header": {
     "hello": "Hello",
     "language": "language",
+    "theme": "Theme",
     "music": "Music",
     "wallpaper": "Wallpaper",
     "camera": "Camera",

@@ -18,7 +18,7 @@ const resources = {
 
 i18n.use(initReactI18next).init({
   resources,
-  lng: 'zh',
+  lng: localStorage.lang || 'zh',
   interpolation: {
     escapeValue: false,
   },
