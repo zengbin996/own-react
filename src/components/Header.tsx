@@ -33,7 +33,7 @@ export default function Header() {
                 i18n.changeLanguage(languageOption[mySelect!.current!.selectedIndex].key);
               }}
             >
-              {languageOption.map((item) => (
+              {languageOption.map((item)
                 <option value={item.key} key={item.key}>
                   {item.value}
                 </option>
@@ -43,7 +43,7 @@ export default function Header() {
           <p className="bg-slate-300 rounded-md mt-2 p-2">
             <span className="inline-block w-20">夜间模式</span>
 
-            <div></div>
+            <div>99999</div>
           </p>
         </div>
       </div>
