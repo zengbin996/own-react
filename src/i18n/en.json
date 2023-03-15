@@ -1,0 +1,12 @@
+{
+  "header": {
+    "hello": "Hello",
+    "language": "language",
+    "music": "Music",
+    "wallpaper": "Wallpaper",
+    "camera": "Camera",
+    "dark": "Dark",
+    "light": "Light",
+    "auto": "Auto"
+  }
+}
